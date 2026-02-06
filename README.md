@@ -18,7 +18,12 @@ I am a results-driven professional with 20 years of leadership and operational e
 - **Languages:** `Python (Pandas, NumPy, Matplotlib)`, `SQL`, `R (ggplot2, dplyr)`
 - **Data & AI:** Machine Learning, Predictive Modeling, Exploratory Data Analysis (EDA)
 - **Cloud & Tools:** Google Cloud Platform (GCP), Git/GitHub, Tableau, Power BI
-- **Certifications:** - Google Cloud Digital Leader (In Progress)
+- **Certifications:**
+  - Google Cloud Digital Leader (In Progress)
+  - Certified Associate in Project Management
+  - PMI-Certified Professional in Managing AI
+  - Certified Supply Chain Professional
+  - Google Generative AI Leader 
   - PMI Palmetto Chapter Member
   - Master of Science in Management
 
@@ -26,13 +31,7 @@ I am a results-driven professional with 20 years of leadership and operational e
 
 ## 📂 Featured Projects
 
-### [Smart Inventory Optimizer](LINK_TO_REPO)
-**Tech:** Python, Pandas, Kaggle Datasets  
-*Designed an optimization engine to streamline stock levels and reduce carry costs. This project applies predictive modeling to real-world supply chain constraints.*
 
-### [Duty Drawback Automation Lab](LINK_TO_REPO)
-**Tech:** SQL, Excel/Power BI  
-*Exploring the intersection of trade compliance and data. Focused on automating the identification of duty recovery opportunities.*
 
 ---
 
