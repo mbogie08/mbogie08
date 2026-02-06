@@ -44,8 +44,8 @@ I am a results-driven professional with 20 years of leadership and operational e
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Professional Goal:** Relocating to the **Asheville, NC** area within 3-5 years. Let's connect if you're in the Carolinas!
+- **LinkedIn:** (https://www.linkedin.com/in/michaelbogenschutz/)
+- **Professional Goal:** Digital Transformation for the Supply Chain **Let's connect if you're in the Carolinas!**
 
 ---
 *“Integrating military precision with data-driven decision making.”*
